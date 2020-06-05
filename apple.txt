@@ -5,4 +5,8 @@ New line is add to the next file
 
 
 
+<<<<<<< HEAD
 appple aple
+=======
+b2 file
+>>>>>>> b2
