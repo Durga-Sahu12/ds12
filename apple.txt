@@ -1,1 +1,4 @@
 This is just a text ....
+
+
+New line is add to the next file
